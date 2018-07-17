@@ -29,6 +29,7 @@ gen### Java template
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-data
-data_old
-target
+/data
+/data_old
+/target
+src/main/resources/
